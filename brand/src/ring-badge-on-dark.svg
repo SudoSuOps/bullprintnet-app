@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<circle cx="100" cy="100" r="95" fill="none" stroke="#F3F1FA" stroke-width="2.5"></circle>
+<circle cx="100" cy="100" r="86" fill="none" stroke="#F3F1FA" stroke-width="1"></circle>
+<path id="t" d="M 38 100 A 62 62 0 0 1 162 100" fill="none"></path>
+<path id="b" d="M 30 100 A 70 70 0 0 0 170 100" fill="none"></path>
+<text font-size="17" letter-spacing="6"><textPath href="#t" startOffset="50%" text-anchor="middle">BULLPRINT</textPath></text>
+<text font-size="15" letter-spacing="8"><textPath href="#b" startOffset="50%" text-anchor="middle">— NET —</textPath></text>
+<text x="100" y="112" text-anchor="middle" font-size="38" letter-spacing="-1">BN</text>
+<g stroke="#F3F1FA" stroke-width="1"><line x1="58" y1="100" x2="72" y2="100"></line><line x1="128" y1="100" x2="142" y2="100"></line></g>
+<circle cx="55" cy="100" r="2.4" fill="#F3F1FA"></circle><circle cx="145" cy="100" r="2.4" fill="#F3F1FA"></circle>
+</svg>
