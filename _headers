@@ -36,3 +36,10 @@
 
 /index.html
   Cache-Control: public, max-age=0, must-revalidate
+
+/llms.txt
+  Cache-Control: public, max-age=3600
+  X-Robots-Tag: noindex
+
+/404.html
+  X-Robots-Tag: noindex

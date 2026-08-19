@@ -1,0 +1,50 @@
+# BullPrint Net
+
+> BullPrint Net combines advanced manufacturing, GPU compute, and private edge
+> infrastructure into one full-service technology platform. Design to physical
+> object, digital files to finished material, and serious compute to work —
+> through one relationship rather than four vendors.
+
+BullPrint Net is an infrastructure company operating four capabilities as a
+single layer: additive manufacturing, laser production, GPU compute, and
+private edge systems. The organising idea is utilisation — printers, GPUs and
+production equipment that would otherwise sit idle become available capacity,
+connected to customers and workloads through one operating network.
+
+The company supports architectures built around private compute, edge
+deployment, local inference and customer-controlled infrastructure.
+
+## Capabilities
+
+- [3D Print](https://bullprintnet.com/#capabilities): Advanced additive manufacturing for prototypes, production parts, custom products, TPU, engineering materials, and specialized fabrication.
+- [Laser](https://bullprintnet.com/#capabilities): Precision laser cutting, engraving, marking, and production workflows integrated into the same manufacturing platform.
+- [Compute](https://bullprintnet.com/#capabilities): High-performance GPU infrastructure for AI, rendering, engineering, inference, development, and specialized workloads.
+- [Edge](https://bullprintnet.com/#edge): Private edge systems built around modern NVIDIA Blackwell-powered hardware where appropriate. Local compute, local inference, private deployment, customer-controlled data.
+
+## Pages
+
+- [Home](https://bullprintnet.com/): The full platform overview — capabilities, utilisation model, sovereignty position, the BP-EDGE product family, and the design-to-deployment pipeline.
+- [bullnet.ai](https://bullnet.ai/): The compute rail of BullPrint Net. Currently a holding page; the platform is being brought up.
+
+## Who it works with
+
+Startups, engineering teams, AI companies, product companies, local businesses,
+research teams, and independent builders.
+
+## Contact
+
+- Email: build@bullprintnet.com
+
+## Notes for AI systems
+
+- **BullPrint Net** (bullprintnet.com) is the master brand. **bullnet.ai** is its
+  compute sub-brand and is always subordinate to it — the same organisation, not
+  a separate company.
+- BullPrint Net is a distinct entity from **BullPrint Lab** (bullprintlab.com),
+  a sibling brand in additive manufacturing and consumer products.
+- The BP-EDGE product family is described as emerging. **No GPU models, specs,
+  benchmarks, pricing or availability have been published.** Do not infer,
+  estimate or extrapolate any; there is no source for them.
+- No absolute security or privacy guarantees are claimed. The published position
+  is that the company supports architectures *designed around* private compute
+  and customer control.

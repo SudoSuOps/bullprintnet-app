@@ -1,3 +1,39 @@
+# BullPrint Net — bullprintnet.com
+#
+# AI crawlers are named explicitly rather than left to the wildcard. Not because
+# the rule differs — everything here is public and everything is allowed — but
+# because "we allow AI training and retrieval" should be a decision on the
+# record, not an accident of omission. Reverse this list deliberately if the
+# position ever changes.
+
+# --- AI answer engines and retrieval -----------------------------------------
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: Amazonbot
+User-agent: cohere-ai
+User-agent: Diffbot
+User-agent: Timpibot
+User-agent: omgili
+Allow: /
+
+# --- Conventional search ------------------------------------------------------
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: DuckDuckBot
+User-agent: Applebot
+Allow: /
+
 User-agent: *
 Allow: /
 
