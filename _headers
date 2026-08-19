@@ -43,6 +43,11 @@
 
 # Pages defaults these to 4 hours. A crawl-policy change should reach a crawler
 # in minutes, not after a cache purge somebody has to remember to run.
+# The IndexNow key file must be fetchable by the search engine at submit time.
+/*.txt
+  Cache-Control: public, max-age=300
+  X-Robots-Tag: noindex
+
 /robots.txt
   Cache-Control: public, max-age=300, must-revalidate
 
