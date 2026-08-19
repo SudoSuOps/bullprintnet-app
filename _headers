@@ -41,5 +41,13 @@
   Cache-Control: public, max-age=3600
   X-Robots-Tag: noindex
 
+# Pages defaults these to 4 hours. A crawl-policy change should reach a crawler
+# in minutes, not after a cache purge somebody has to remember to run.
+/robots.txt
+  Cache-Control: public, max-age=300, must-revalidate
+
+/sitemap.xml
+  Cache-Control: public, max-age=300, must-revalidate
+
 /404.html
   X-Robots-Tag: noindex
